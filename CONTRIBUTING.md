@@ -1,4 +1,5 @@
-# Contributing
+bundle install
+bundle exec rubocop# Contributing
 
 Hi there! We're excited you have ideas to improve topics and collections. You're helping the community discover valuable information.
 
@@ -118,3 +119,5 @@ You can run the tests using:
 bundle install
 bundle exec rubocop
 ```
+bundle install
+bundle exec rubocop
